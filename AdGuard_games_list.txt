@@ -1776,7 +1776,6 @@ sites.google.com/site/unblockedgamesvevo
 ||darkagesworld.com^
 ||darkblade.ath.cx^
 ||darkcity.forumactif.com^
-||darkdiscord.com^
 ||darkelf.altervista.org^
 ||darkelfdice.com^
 ||darkeningsun.org^
@@ -1812,7 +1811,6 @@ sites.google.com/site/unblockedgamesvevo
 ||dbz-fantasy.com^
 ||dbzgames.org^
 ||dcegames.com^
-||dden.discordia.org^
 ||de.reisen.yahoo.com^
 ||de.spiele.yahoo.com^
 ||de.wildjack.co.uk^
@@ -1938,7 +1936,6 @@ sites.google.com/site/unblockedgamesvevo
 ||diplomatie-online.net^
 ||directgamez.com^
 ||dirt.dennis.co.uk^
-||discordapp.com^
 ||diseasedproductions.net^
 ||disney.com/games^
 ||disneybahn.com^
